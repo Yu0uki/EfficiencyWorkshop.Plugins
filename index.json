@@ -19,7 +19,7 @@
       "description": "JSON 格式化、压缩、验证、转义等常用开发工具集",
       "version": "1.0.0",
       "updatedAt": "2026-05-09",
-      "downloadUrl": "https://raw.githubusercontent.com/Yu0uki/EfficiencyWorkshop.Plugins/main/Plugins/JsonToolboxPlugin.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/Yu0uki/EfficiencyWorkshop.Plugins/main/Plugins/JsonToolbox.dll",
       "icon": "🔧",
       "tags": ["开发", "JSON"]
     },
@@ -41,7 +41,7 @@
       "description": "常用单位换算工具，支持长度、重量、温度等多种单位转换",
       "version": "1.0.0",
       "updatedAt": "2026-05-09",
-      "downloadUrl": "https://raw.githubusercontent.com/Yu0uki/EfficiencyWorkshop.Plugins/main/Plugins/UnitConverterPlugin.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/Yu0uki/EfficiencyWorkshop.Plugins/main/Plugins/UnitConverter.dll",
       "icon": "📐",
       "tags": ["工具", "换算"]
     },
@@ -52,7 +52,7 @@
       "description": "安全密码生成工具，支持自定义长度、大小写、数字和特殊字符",
       "version": "1.0.0",
       "updatedAt": "2026-05-09",
-      "downloadUrl": "https://raw.githubusercontent.com/Yu0uki/EfficiencyWorkshop.Plugins/main/Plugins/PasswordGeneratorPlugin.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/Yu0uki/EfficiencyWorkshop.Plugins/main/Plugins/PasswordGenerator.dll",
       "icon": "🔐",
       "tags": ["安全", "工具"]
     }
